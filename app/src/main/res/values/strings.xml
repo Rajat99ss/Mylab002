@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mylab002</string>
+    <string name="spin_message">CA to FR</string>
+    <string name="hellostring">Hello</string>
+</resources>
